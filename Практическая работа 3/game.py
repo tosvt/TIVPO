@@ -52,7 +52,14 @@ class Player:
         self.age = age
         self.motto_in_life = motto_in_life
 
-new_game = Game()
-que, ans = new_game.get_question()
-print(que)
-print(new_game.outputinfo(ans))
+    def player_info(self):
+        print(f'\nИнформация об игроке: \n Имя: {self.name}, \n Возраст: {self.age}, \n Девиз по жизни: {self.motto_in_life}\n')
+
+
+new_player = Player('Андрей', 20, 'Все к лучшему!')
+new_player.player_info()
+
+# new_game = Game()
+# que, ans = new_game.get_question()
+# print(que)
+# print(new_game.outputinfo(ans))
