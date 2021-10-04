@@ -46,7 +46,7 @@ class Game:
 
             print(user_answer)
 
-# new_game = Game()
-# que, ans = new_game.get_question()
-# print(que)
-# print(new_game.outputinfo(ans))
+new_game = Game()
+que, ans = new_game.get_question()
+print(que)
+print(new_game.outputinfo(ans))
