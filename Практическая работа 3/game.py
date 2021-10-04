@@ -47,7 +47,10 @@ class Game:
             print(user_answer)
 
 class Player:
-    pass
+    def __init__(self, name, age, motto_in_life):
+        self.name = name
+        self.age = age
+        self.motto_in_life = motto_in_life
 
 new_game = Game()
 que, ans = new_game.get_question()
