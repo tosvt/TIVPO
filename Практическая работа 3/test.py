@@ -26,5 +26,8 @@ def test_output_info():
     q, a = new_game.get_question()
     return 'Введите букву или назовите слово:'
 
+def test_Player():
+    return Player('Андрей', 20, 'Все перемены к лучшему')
+
 if __name__ == '__main__':
     pytest.main()
