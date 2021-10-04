@@ -30,11 +30,11 @@ class Game:
         print(''.join(curent_view))
 
         while True:
-            user = input('Введите букву или назовите слово: ')
+            user = input('Введите букву или назовите слово сразу: ')
             if user == answer:
                 print('Вы правильно назвали слово!');break
             if (user in answer):
-                print('Есть такая буква!')
+                print('Есть такая буква в этом слове!')
                 for i in range(0,len(answer)):
                     if answer[i]==user:
                         curent_view[i]=user
