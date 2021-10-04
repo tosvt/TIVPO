@@ -13,6 +13,16 @@ class Game:
                 question = question_answer[0:i]
         return question, answer
 
+    def get_answer(self):
+        with open('q.txt', 'r', encoding='utf-8') as f:
+            que_list = f.read().splitlines()
+        num_question = random.randrange(0, len(que_list))
+        que_answer = str(que_list[num_question])
+        for i in range(0, len(que_answer)):
+            if que_answer[i] == ';':
+                answer = que_answer[i+1:len(que_answer)]
+        return answer
+
     def outputinfo(self, answer):
         curent_view = []
         for i in range(0,len(answer)):

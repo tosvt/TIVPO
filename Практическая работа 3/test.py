@@ -11,6 +11,15 @@ def test_get_question():
     if q == 'Какого слова нет в языке народов Арктики?' and a == 'Война':
         assert 'Война'
 
+def test_get_answer():
+    new_game = Game()
+    q = new_game.get_answer()
+    if q == 'Столица России':
+        assert 'Столица России'
+    if q == 'Кто не является птицей?':
+        assert 'Кто не является птицей?'
+    if q == 'Какого слова нет в языке народов Арктики?':
+        assert 'Какого слова нет в языке народов Арктики?'
 
 def test_output_info():
     new_game = Game()
