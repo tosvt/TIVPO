@@ -29,5 +29,10 @@ def test_output_info():
 def test_Player():
     return Player('Андрей', 20, 'Все перемены к лучшему')
 
+def test_player_info():
+    player = Player('Андрей', 20, 'Все перемены к лучшему')
+    return "\nИнформация об игроке: \n Имя: {self.name}, \n Возраст: {self.age}, \n Девиз по жизни: {self.motto_in_life}\n"
+
+
 if __name__ == '__main__':
     pytest.main()
