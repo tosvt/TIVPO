@@ -46,6 +46,9 @@ class Game:
 
             print(user_answer)
 
+class Player:
+    pass
+
 new_game = Game()
 que, ans = new_game.get_question()
 print(que)
