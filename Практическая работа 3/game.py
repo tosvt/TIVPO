@@ -13,6 +13,29 @@ class Game:
                 question = question_answer[0:i]
         return question, answer
 
+    def outputinfo(self, answer):
+        curent_view = []
+        for i in range(0,len(answer)):
+            curent_view.append('*')
+        print(''.join(curent_view))
+
+        while True:
+            user = input('Введите букву или назовите слово: ')
+            if user == answer:
+                print('Вы правильно назвали слово!');break
+            if (user in answer):
+                print('Есть такая буква!')
+                for i in range(0,len(answer)):
+                    if answer[i]==user:
+                        curent_view[i]=user
+                        user_answer = ''.join(curent_view)
+            else:
+                print('Такой буквы нет!')
+            if user_answer == answer:
+                print('Вы правильно назвали все буквы!');break
+
+            print(user_answer)
+
 # new_game = Game()
 # que, ans = new_game.get_question()
 # print(que)

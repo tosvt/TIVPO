@@ -11,5 +11,11 @@ def test_get_question():
     if q == 'Какого слова нет в языке народов Арктики?' and a == 'Война':
         assert 'Война'
 
+
+def test_output_info():
+    new_game = Game()
+    q, a = new_game.get_question()
+    return 'Введите букву или назовите слово:'
+
 if __name__ == '__main__':
     pytest.main()
