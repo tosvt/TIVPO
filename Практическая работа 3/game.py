@@ -85,7 +85,7 @@ class Menu:
                 new_player = Player(name, age, motto_in_life)
             print(new_player.player_info())
         elif code == 3:
-            print('\nИгра такая-то\n')
+            print('\nИгра разработана черезе TDD\n')
         else:
             print('Нет такого пункта меню, повторите попытку.')
             menu = Menu()
