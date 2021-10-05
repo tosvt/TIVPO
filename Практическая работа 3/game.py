@@ -56,10 +56,45 @@ class Player:
         print(f'\nИнформация об игроке: \n Имя: {self.name}, \n Возраст: {self.age}, \n Девиз по жизни: {self.motto_in_life}\n')
 
 class Menu:
-    pass
 
-new_player = Player('Андрей', 20, 'Все к лучшему!')
-new_player.player_info()
+    def menu(self):
+        print(
+            '\n====== Капитан-Шоу "Поле Чудес" ======\n 1 - Начать игру \n 2 - Об игроке \n 3 - Об игре \n 0 - Выход \n')
+        code = int(input('Выберите пункт: '))
+        if code == 1:
+            new_game = Game()
+            que, ans = new_game.get_question()
+            print(que)
+            print(new_game.outputinfo(ans))
+        elif code == 0:
+            exit('\nИгра завершена')
+            # print('Перед началом игры заполните поля: \n')
+            # name = input('Введите свое имя: ')
+            # age = int(input('Введите свой возраст: '))
+            # motto_in_life = input('Введите девиз по жизни: ')
+            # if name and age and motto_in_life:
+            #     new_player = Player(name, age, motto_in_life)
+            # print(new_player.player_info())
+
+        elif code == 2:
+            print('Перед началом игры заполните поля: \n')
+            name = input('Введите свое имя: ')
+            age = int(input('Введите свой возраст: '))
+            motto_in_life = input('Введите девиз по жизни: ')
+            if name and age and motto_in_life:
+                new_player = Player(name, age, motto_in_life)
+            print(new_player.player_info())
+        elif code == 3:
+            print('\nИгра такая-то\n')
+        else:
+            print('Нет такого пункта меню, повторите попытку.')
+            menu = Menu()
+
+if __name__ == '__main__':
+    menu = Menu()
+    menu.menu()
+# new_player = Player('Андрей', 20, 'Все к лучшему!')
+# new_player.player_info()
 
 # new_game = Game()
 # que, ans = new_game.get_question()
