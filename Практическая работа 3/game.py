@@ -13,16 +13,6 @@ class Game:
                 question = question_answer[0:i]
         return question, answer
 
-    def get_answer(self):
-        with open('q.txt', 'r', encoding='utf-8') as f:
-            que_list = f.read().splitlines()
-        num_question = random.randrange(0, len(que_list))
-        que_answer = str(que_list[num_question])
-        for i in range(0, len(que_answer)):
-            if que_answer[i] == ';':
-                answer = que_answer[i+1:len(que_answer)]
-        return answer
-
     def outputinfo(self, answer):
         curent_view = []
         for i in range(0,len(answer)):
@@ -43,7 +33,6 @@ class Game:
                 print('Такой буквы нет!')
             if user_answer == answer:
                 print('Вы правильно назвали все буквы!');break
-
             print(user_answer)
 
 class Player:
@@ -68,14 +57,6 @@ class Menu:
             print(new_game.outputinfo(ans))
         elif code == 0:
             exit('\nИгра завершена')
-            # print('Перед началом игры заполните поля: \n')
-            # name = input('Введите свое имя: ')
-            # age = int(input('Введите свой возраст: '))
-            # motto_in_life = input('Введите девиз по жизни: ')
-            # if name and age and motto_in_life:
-            #     new_player = Player(name, age, motto_in_life)
-            # print(new_player.player_info())
-
         elif code == 2:
             print('Перед началом игры заполните поля: \n')
             name = input('Введите свое имя: ')
