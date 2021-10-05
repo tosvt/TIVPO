@@ -55,6 +55,8 @@ class Player:
     def player_info(self):
         print(f'\nИнформация об игроке: \n Имя: {self.name}, \n Возраст: {self.age}, \n Девиз по жизни: {self.motto_in_life}\n')
 
+class Menu:
+    pass
 
 new_player = Player('Андрей', 20, 'Все к лучшему!')
 new_player.player_info()
