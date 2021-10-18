@@ -20,7 +20,7 @@
 </ul>
 <h2>Результат тестирования в ПО</h2>
 <p>Тестирование производилось с помощью программы TestComplete</p>
-<p>Результат написания скрипта доступен по <a href='https://github.com/tosvt/TIVPO/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204/test.py'>ссылке</a></p>
+<p>Написанный скрипт доступен по <a href='https://github.com/tosvt/TIVPO/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204/test.py'>ссылке</a></p>
 <p style='text-align:center'><img src="https://github.com/tosvt/TIVPO/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204/imgs/testlogs.png"></p>
 <h2>Наименование Web-приложения и что оно из себя представляет</h2>
 
