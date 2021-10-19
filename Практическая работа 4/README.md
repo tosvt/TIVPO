@@ -39,10 +39,10 @@
 <h2>Результат тестирования с использованием Selenium IDE и Selenium WebDriver или аналогов</h2>
 <p>В ходе тестирования, было написано четыре теста, первый проверяет на тот ли сайт мы зашли, второй - возможность зарегистрироваться на курс (дудос машина для их приемника заявок), третий - проверка блока с Курсами в Компьютерной школе Hillel и четвертый - проверка регистрации преподавателя</p>
 <p><img src='https://github.com/tosvt/TIVPO/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204/imgs/web_test1.jpg'></p>
-<p>Скриншот выполнения первого теста</p>
+<p style='text-align:center'>Скриншот выполнения первого теста</p>
 <p><img src='https://github.com/tosvt/TIVPO/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204/imgs/web_test2.jpg'></p>
-<p>Скриншот выполнения второго теста</p>
+<p style='text-align:center'>Скриншот выполнения второго теста</p>
 <p><img src='https://github.com/tosvt/TIVPO/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204/imgs/web_test3.jpg'></p>
-<p>Скриншот выполнения третьего теста</p>
+<p style='text-align:center'>Скриншот выполнения третьего теста</p>
 <p><img src='https://github.com/tosvt/TIVPO/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204/imgs/web_test4.jpg'></p>
-<p>Скриншот выполнения четвертого теста</p>
+<p style='text-align:center'>Скриншот выполнения четвертого теста</p>
