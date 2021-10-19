@@ -16,12 +16,15 @@ def AddContact():
     #Clicks the 'btn2' button.
     Aliases.main.wndTkTopLevel.TkChild.btn2.ClickButton()
     
+    s = aqFile.ReadWholeTextFile("C:\\Users\\svt\\PycharmProjects\\pytestpr4\\dist\\main\\contactBook.txt", aqFile.ctANSI)
+    Log.Message(s)
+    
     #Runs the "NOTEPAD" tested application.
-    TestedApps.NOTEPAD.Run(1, True)
+    #TestedApps.NOTEPAD.Run(1, True)
     #Maximizes the 'wndNotepad' window.
-    Aliases.notepad.wndNotepad.Maximize()
+    #Aliases.notepad.wndNotepad.Maximize()
     #Closes the 'wndNotepad' window.
-    Aliases.notepad.wndNotepad.Close()
+    #Aliases.notepad.wndNotepad.Close()
 
 def SearchPhoneNumber():
     #Runs the "main" tested application.
@@ -46,6 +49,9 @@ def ShowPhoneNumber():
     Aliases.main.wndTkTopLevel.TkChild.btn4.ClickButton()
     #Clicks the 'btn_' button.
     Aliases.main.dlgPhoneNumberList.btn_.ClickButton()
+    
+    s = aqFile.ReadWholeTextFile("C:\\Users\\svt\\PycharmProjects\\pytestpr4\\dist\\main\\contactBook.txt", aqFile.ctANSI)
+    Log.Message(s)
 
 def RemovePhoneNumber():
     #Clicks the 'TkChild' object.
@@ -60,6 +66,9 @@ def RemovePhoneNumber():
     Aliases.main.dlgResult2.btn_.ClickButton()
     #Clicks the 'btn2' button.
     Aliases.main.wndTkTopLevel.TkChild.btn2.ClickButton()
+    
+    s = aqFile.ReadWholeTextFile("C:\\Users\\svt\\PycharmProjects\\pytestpr4\\dist\\main\\contactBook.txt", aqFile.ctANSI)
+    Log.Message(s)
 
 def AddContact_BigData():
     Project.Variables.AddContact.Reset()
@@ -85,6 +94,9 @@ def AddContact_BigData():
         #Runs the "main" tested application.
         TestedApps.main.Run(1, True)
         Project.Variables.AddContact.Next()
+        
+        s = aqFile.ReadWholeTextFile("C:\\Users\\svt\\PycharmProjects\\pytestpr4\\dist\\main\\contactBook.txt", aqFile.ctANSI)
+        Log.Message(s)
 
 def ViewTextFile():
     #Runs the "NOTEPAD" tested application.
