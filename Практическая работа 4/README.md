@@ -8,6 +8,8 @@
 <h2>Функциональная спецификация десктопной программы для теста</h2>
 <p>Программа "Contact Book" предназначена для ведения списка контактов.</p>
 <p>Скачать ее можно <a href='https://github.com/tosvt/TIVPO/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204/main.zip'>отсюда</a></p>
+<p>Главное окно программы</p>
+<p><img src='https://github.com/tosvt/TIVPO/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204/imgs/mainwindow.png'></p>
 <p>Функции программы:</p>
 <ul>
   <li>Добавление контакта</li>
