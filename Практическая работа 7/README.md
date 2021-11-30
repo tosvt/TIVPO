@@ -17,7 +17,7 @@
 
 <h2>Создать модель в виде Cord-скрипта и упрощенной реализации
 на С#.</h2>
-<p><img src="https://sun9-12.userapi.com/impg/cw2Bt5x2hEJPO6L2GTBsz4T1Ifnf-AJGv9qOLQ/Sz_1pC1mWaI.jpg?size=783x797&quality=96&sign=ac51ec7207b95a05954ea629c760b8fe&type=album"></p>
+<p><img src="https://sun9-26.userapi.com/impg/Unghf5iyOYtj1j7UDRbMA25FJZ21ddXxRpUlZg/ERSgtwKkr_4.jpg?size=835x598&quality=96&sign=1bd64767485fe1f63f1ee3cfed1e54f9&type=album"></p>
 
 <h2>Сгенерировать тесты по модели.</h2>
 <p><img src="https://sun9-12.userapi.com/impg/cw2Bt5x2hEJPO6L2GTBsz4T1Ifnf-AJGv9qOLQ/Sz_1pC1mWaI.jpg?size=783x797&quality=96&sign=ac51ec7207b95a05954ea629c760b8fe&type=album"></p>
