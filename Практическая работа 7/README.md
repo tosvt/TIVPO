@@ -26,8 +26,7 @@
 <p><img src="https://sun9-11.userapi.com/impg/Q5J741L4Tx4Zrf7imxfb2F7IPORRMgDB1H_SFQ/LhsAS95aKjA.jpg?size=392x833&quality=96&sign=87e439384e0739c5ffa6c542b03aff36&type=album"></p>
   <p align="center"><i>Скриншот выполненных тестов</i></p>
 
-<h2>Добавить функционал и проверить, что тесты проходят
-корректно.</h2>
+<h2>Добавить функционал</h2>
   <p>Модель с добавленным функционалом возведение в степень</p>
   <p><img src="https://sun9-13.userapi.com/impg/7w6NHVFK63sPMdEq2nmzibKvGfwpkWTfzDKwEQ/ijgcfLWJg0g.jpg?size=372x160&quality=96&sign=de8574d3f6e6a2208598d553123b0acc&type=album"></p>
   <p>Новое правило в модели</p>
