@@ -12,7 +12,7 @@
 диалоговые системы с несколькими режимами работы).</h2>
 <p>За основу взят алгоритм счетчика. Он умеет складывать и выводить результат</p>
 
-<p><img src='https://sun9-26.userapi.com/impg/Unghf5iyOYtj1j7UDRbMA25FJZ21ddXxRpUlZg/ERSgtwKkr_4.jpg?size=835x598&quality=96&sign=1bd64767485fe1f63f1ee3cfed1e54f9&type=album'></p>
+<p><img width="400" src='https://sun9-26.userapi.com/impg/Unghf5iyOYtj1j7UDRbMA25FJZ21ddXxRpUlZg/ERSgtwKkr_4.jpg?size=835x598&quality=96&sign=1bd64767485fe1f63f1ee3cfed1e54f9&type=album'></p>
 <p align="center"><i>Скриншот программного кода Cord - скрипта</i></p>
 
 <h2>Упрощенной реализация на С#. Программная модель системы</h2>
