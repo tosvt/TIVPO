@@ -30,11 +30,11 @@
 <p><img src="https://sun9-11.userapi.com/impg/Q5J741L4Tx4Zrf7imxfb2F7IPORRMgDB1H_SFQ/LhsAS95aKjA.jpg?size=392x833&quality=96&sign=87e439384e0739c5ffa6c542b03aff36&type=album"></p>
   <p align="center"><i>Скриншот выполненных тестов</i></p>
   
-  <p><img src="https://sun9-86.userapi.com/impg/SnbLPfg7AGesvkoGnaxpkfih4-P-uC-PfdEuHQ/KSjrHXfGlro.jpg?size=791x387&quality=96&sign=1e6c081587097067c7cbb024237160d6&type=album"></p>
-  <p align="center"><i>Графы</i></p>
+  <p><img src="https://sun9-74.userapi.com/impg/1PIQq5EyvnXqEAqH_RN0ASGE1uh28pKC-o65Fw/YfTbA_jl9D4.jpg?size=1114x391&quality=96&sign=54177ddcbd05dfcc771332658436504d&type=album"></p>
+  <p align="center"><i>Сгенерированный граф</i></p>
   
 <h2>Добавить функционал</h2>
   <p>Модель с добавленным функционалом тройного умножения</p>
-  <p><img src=""></p>
+  <p><img src="https://sun9-84.userapi.com/impg/blcLNNch2vyIbyInsIvzOiGYwLPGD_M-iB_gNA/LuISdjnf3f0.jpg?size=526x328&quality=96&sign=324b56c828705a69f97de81c4afbf7b0&type=album"></p>
   <p>Новое правило в модели</p>
-  <p><img src=""></p>
+  <p><img src="https://sun9-30.userapi.com/impg/HPPeZaPTQguxinc5PlDINbP1oZsf3oYZqTwKTw/w0YrOqFqFYM.jpg?size=789x572&quality=96&sign=f278b6ef98f88b70fd10a1a85320e63b&type=album"></p>
