@@ -12,7 +12,7 @@
 диалоговые системы с несколькими режимами работы).</h2>
 <p>За основу взят алгоритм счетчика. Он умеет складывать и выводить результат</p>
 
-<p><img src='https://sun9-22.userapi.com/impg/WZygr20vtktgvE3TTrEz6qvREv0z3AI5paRsbQ/rHMF-alErlU.jpg?size=1411x842&quality=96&sign=fe55a8ce4ef41e24c06349e91d05390a&type=album'></p>
+<p><img src='https://sun9-26.userapi.com/impg/Unghf5iyOYtj1j7UDRbMA25FJZ21ddXxRpUlZg/ERSgtwKkr_4.jpg?size=835x598&quality=96&sign=1bd64767485fe1f63f1ee3cfed1e54f9&type=album'></p>
 <p align="center"><i>Скриншот программного кода</i></p>
 
 <h2>Создать модель в виде Cord-скрипта и упрощенной реализации
