@@ -17,7 +17,7 @@
 
 <h2>Создать модель в виде Cord-скрипта и упрощенной реализации
 на С#.</h2>
-<p><img src="https://sun9-76.userapi.com/impg/UXL9jzqHcJDQmjbO_YZm7ZJxHWCZWoS-3-i9Bw/5447CIaRDVI.jpg?size=677x718&quality=96&sign=a4ed22336a0357ebd3b681c55b7429ce&type=album"></p>
+<p><img src="https://sun9-12.userapi.com/impg/cw2Bt5x2hEJPO6L2GTBsz4T1Ifnf-AJGv9qOLQ/Sz_1pC1mWaI.jpg?size=783x797&quality=96&sign=ac51ec7207b95a05954ea629c760b8fe&type=album"></p>
 
 <h2>Сгенерировать тесты по модели.</h2>
 <p><img src="https://sun9-12.userapi.com/impg/cw2Bt5x2hEJPO6L2GTBsz4T1Ifnf-AJGv9qOLQ/Sz_1pC1mWaI.jpg?size=783x797&quality=96&sign=ac51ec7207b95a05954ea629c760b8fe&type=album"></p>
@@ -31,4 +31,4 @@
   <p>Модель с добавленным функционалом возведение в степень</p>
   <p><img src="https://sun9-76.userapi.com/impg/H_oHdB7wGMrZtKKSMwfyDeVGyPfE2VCTIFuWdA/wfMLFumhvzU.jpg?size=482x157&quality=96&sign=25cfb86b562b19328ff4dbfe1af1e95e&type=album"></p>
   <p>Новое правило в модели</p>
-  <p><img src="https://sun1-57.userapi.com/impg/qhAIMkl0TERg6m451QN0kORKsHvSETsFeNk8SA/jLTmbBSeXag.jpg?size=566x141&quality=96&sign=968a3ed7cda9701d0d2d7e0870069123&type=album"></p>
+  <p><img src="https://sun9-23.userapi.com/impg/v8JnnujFFvsMK6sILkCNDM0CTXBFYxyK29QtVw/5MSGvRHijIU.jpg?size=486x145&quality=96&sign=ab3ba1a7730341acc005f9f74d29abbc&type=album"></p>
