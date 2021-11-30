@@ -17,10 +17,10 @@
 
 <h2>Упрощенной реализация на С#. Программная модель системы</h2>
   
- <p><img width="600" src="https://user-images.githubusercontent.com/40149230/144032087-93fbc83f-5cfc-4ab0-bb53-8d50cded5e91.png"></p>
+ <p><img width="400" src="https://user-images.githubusercontent.com/40149230/144032087-93fbc83f-5cfc-4ab0-bb53-8d50cded5e91.png"></p>
   <p align="center">Программная модель системы</p>
   
-<p><img width="600" src="https://sun9-14.userapi.com/impg/oHxFlJDA9i-yrgLDvfEVjaguYPJfg4CyM6iVJQ/lXTFllCbuCM.jpg?size=432x432&quality=96&sign=da8c8923115b26e39a5cd607d4417f1c&type=album"></p>
+<p><img width="400" src="https://sun9-14.userapi.com/impg/oHxFlJDA9i-yrgLDvfEVjaguYPJfg4CyM6iVJQ/lXTFllCbuCM.jpg?size=432x432&quality=96&sign=da8c8923115b26e39a5cd607d4417f1c&type=album"></p>
  <p align="center"><i>Имплементация модели счетчика</i></p>
 
 <h2>Сгенерировать тесты по модели.</h2>
