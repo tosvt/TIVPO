@@ -31,4 +31,4 @@
   <p>Модель с добавленным функционалом возведение в степень</p>
   <p><img src="https://sun9-13.userapi.com/impg/7w6NHVFK63sPMdEq2nmzibKvGfwpkWTfzDKwEQ/ijgcfLWJg0g.jpg?size=372x160&quality=96&sign=de8574d3f6e6a2208598d553123b0acc&type=album"></p>
   <p>Новое правило в модели</p>
-  <p><img src="https://sun9-23.userapi.com/impg/v8JnnujFFvsMK6sILkCNDM0CTXBFYxyK29QtVw/5MSGvRHijIU.jpg?size=486x145&quality=96&sign=ab3ba1a7730341acc005f9f74d29abbc&type=album"></p>
+  <p><img src="https://sun9-72.userapi.com/impg/RU1pIVYycdQ2RIWpptuZ-zhg0PScugDlcf5QDQ/kYdyIrxyzQg.jpg?size=482x157&quality=96&sign=f879b337e1747ce14cd1fd7e6adc60f7&type=album"></p>
