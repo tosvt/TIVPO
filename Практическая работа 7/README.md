@@ -23,7 +23,7 @@
 <p><img src="https://sun9-76.userapi.com/impg/pr0JH1FmSnSGKMQVe7_E0zZ5BQx0YmUXbC5kuw/f4_j6_1kpkw.jpg?size=816x813&quality=96&sign=ae934362893466d5bed33c1558b94a2c&type=album"></p>
   <p align="center"><i>Скриншот сгенерированных тестов</i></p>
 
-<p><img src="https://sun9-61.userapi.com/impg/wdlPMVETk-Qv68FxfZLP9LQ-viUpNFYU0Y96xw/ntMO2iy3t-8.jpg?size=1406x842&quality=96&sign=5cad506a18a784fe73e810123c7201bf&type=album"></p>
+<p><img src="https://sun9-11.userapi.com/impg/Q5J741L4Tx4Zrf7imxfb2F7IPORRMgDB1H_SFQ/LhsAS95aKjA.jpg?size=392x833&quality=96&sign=87e439384e0739c5ffa6c542b03aff36&type=album"></p>
   <p align="center"><i>Скриншот выполненных тестов</i></p>
 
 <h2>Добавить функционал и проверить, что тесты проходят
