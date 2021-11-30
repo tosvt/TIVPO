@@ -15,9 +15,9 @@
 <p><img src='https://sun9-26.userapi.com/impg/Unghf5iyOYtj1j7UDRbMA25FJZ21ddXxRpUlZg/ERSgtwKkr_4.jpg?size=835x598&quality=96&sign=1bd64767485fe1f63f1ee3cfed1e54f9&type=album'></p>
 <p align="center"><i>Скриншот программного кода</i></p>
 
-<h2>Создать модель в виде Cord-скрипта и упрощенной реализации
-на С#.</h2>
+<h2>Упрощенной реализация на С#. Программная модель системы</h2>
 <p><img src="https://sun9-61.userapi.com/impg/RTinoHVoSl-VGwuBmVdhBR8zZe7YKwtfa1lwrw/1W3r9sPePxg.jpg?size=483x447&quality=96&sign=cc1f7980a9d0ed5e1bbb2cc22c14f3f8&type=album"></p>
+ <p align="center"><i>Имплементация модели счетчика</i></p>
 
 <h2>Сгенерировать тесты по модели.</h2>
 <p><img src="https://sun9-76.userapi.com/impg/pr0JH1FmSnSGKMQVe7_E0zZ5BQx0YmUXbC5kuw/f4_j6_1kpkw.jpg?size=816x813&quality=96&sign=ae934362893466d5bed33c1558b94a2c&type=album"></p>
