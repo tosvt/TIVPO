@@ -13,14 +13,22 @@
 <p>За основу взят алгоритм счетчика. Он умеет складывать и выводить результат</p>
 
 <p><img src='https://sun9-22.userapi.com/impg/WZygr20vtktgvE3TTrEz6qvREv0z3AI5paRsbQ/rHMF-alErlU.jpg?size=1411x842&quality=96&sign=fe55a8ce4ef41e24c06349e91d05390a&type=album'></p>
-<p align="center"><i>Скриншот выполнения четвертого теста</i></p>
+<p align="center"><i>Скриншот программного кода</i></p>
 
 <h2>Создать модель в виде Cord-скрипта и упрощенной реализации
 на С#.</h2>
-  <p><img src="https://sun9-76.userapi.com/impg/UXL9jzqHcJDQmjbO_YZm7ZJxHWCZWoS-3-i9Bw/5447CIaRDVI.jpg?size=677x718&quality=96&sign=a4ed22336a0357ebd3b681c55b7429ce&type=album"></p>
+<p><img src="https://sun9-76.userapi.com/impg/UXL9jzqHcJDQmjbO_YZm7ZJxHWCZWoS-3-i9Bw/5447CIaRDVI.jpg?size=677x718&quality=96&sign=a4ed22336a0357ebd3b681c55b7429ce&type=album"></p>
 
 <h2>Сгенерировать тесты по модели.</h2>
+<p><img src="https://sun9-12.userapi.com/impg/cw2Bt5x2hEJPO6L2GTBsz4T1Ifnf-AJGv9qOLQ/Sz_1pC1mWaI.jpg?size=783x797&quality=96&sign=ac51ec7207b95a05954ea629c760b8fe&type=album"></p>
+  <p align="center"><i>Скриншот сгенерированных тестов</i></p>
+
+<p><img src="https://sun9-61.userapi.com/impg/wdlPMVETk-Qv68FxfZLP9LQ-viUpNFYU0Y96xw/ntMO2iy3t-8.jpg?size=1406x842&quality=96&sign=5cad506a18a784fe73e810123c7201bf&type=album"></p>
+  <p align="center"><i>Скриншот выполненных тестов</i></p>
 
 <h2>Добавить функционал и проверить, что тесты проходят
 корректно.</h2>
-
+  <p>Модель с добавленным функционалом возведение в степень</p>
+  <p><img src="https://sun9-76.userapi.com/impg/H_oHdB7wGMrZtKKSMwfyDeVGyPfE2VCTIFuWdA/wfMLFumhvzU.jpg?size=482x157&quality=96&sign=25cfb86b562b19328ff4dbfe1af1e95e&type=album"></p>
+  <p>Новое правило в модели</p>
+  <p><img src="https://sun1-57.userapi.com/impg/qhAIMkl0TERg6m451QN0kORKsHvSETsFeNk8SA/jLTmbBSeXag.jpg?size=566x141&quality=96&sign=968a3ed7cda9701d0d2d7e0870069123&type=album"></p>
